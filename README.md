@@ -22,12 +22,3 @@
 
 **Infraestrutura & Cloud:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-### 📈 Estatísticas no GitHub
-![Estatísticas do joap3reira36](https://github-readme-stats.vercel.app/api?username=joap3reira36&show_icons=true&theme=radical)
-
----
-📫 **Como entrar em contato:**  
-[LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI) | [E-mail](mailto:seu-email@exemplo.com)
