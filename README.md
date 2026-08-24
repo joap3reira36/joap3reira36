@@ -78,7 +78,7 @@ Tenho interesse em projetos freelance envolvendo:
 
 * 🐍 Desenvolvimento backend com Python
 * 🔌 Criação e manutenção de APIs REST
-* 🗄️ Integração com SQL Server e MySQL
+* 🗄️ Integração com SQL Server
 * 📊 Consultas e scripts SQL
 * ⚙️ Automação de tarefas e processos
 * 🐳 Dockerização de aplicações
