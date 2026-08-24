@@ -4,7 +4,7 @@
 
 Sou estudante de Engenharia de Software, com foco em **desenvolvimento backend, bancos de dados e automação**.
 
-Tenho experiência prática com **Python, SQL Server, MySQL, APIs REST e Docker**, desenvolvendo projetos voltados para integração com bancos de dados, autenticação, administração e automação de processos.
+Tenho experiência prática com **Python, SQL Server, APIs REST e Docker**, desenvolvendo projetos voltados para integração com bancos de dados, autenticação, administração e automação de processos.
 
 Atualmente estou aprimorando meus projetos para aplicar boas práticas de desenvolvimento, segurança, organização de código e documentação.
 
