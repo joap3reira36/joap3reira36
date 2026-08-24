@@ -1,24 +1,107 @@
-# Olá! Eu sou o João 👋
+# Olá, eu sou o João Vitor 👋
 
-👨‍💻 **Estudante de Tecnologia & Estagiário em TI**  
-🎯 Focado em **Administração de Banco de Dados (DBA) com SQL Server**, infraestrutura de dados e automação de processos.
+### Backend & Database Developer
 
----
+Sou estudante de Engenharia de Software, com foco em **desenvolvimento backend, bancos de dados e automação**.
 
-### 💡 Sobre mim
-- 🗄️ Aprofundando estudos em **SQL Server**: modelagem, T-SQL, rotinas de manutenção, backup/restore e *tuning* de queries.
-- ⚙️ Desenvolvendo automações, scripts úteis e soluções backend integradas com banco de dados.
-- 🚀 Buscando sempre aprender novas tecnologias para otimizar infraestrutura e fluxos de trabalho.
+Tenho experiência prática com **Python, SQL Server, MySQL, APIs REST e Docker**, desenvolvendo projetos voltados para integração com bancos de dados, autenticação, administração e automação de processos.
+
+Atualmente estou aprimorando meus projetos para aplicar boas práticas de desenvolvimento, segurança, organização de código e documentação.
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas
+## 🛠️ Tecnologias
 
-**Banco de Dados & Dados:**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+### Backend
 
-**Desenvolvimento & Automação:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-**Infraestrutura & Cloud:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+### Banco de Dados
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Infraestrutura & Ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔐 Backend API com Python e SQL Server
+
+API desenvolvida com **Python, Flask e SQL Server**, com funcionalidades de gerenciamento e autenticação de usuários.
+
+O projeto está sendo evoluído com foco em:
+
+* API REST
+* autenticação segura
+* hash de senhas com bcrypt
+* integração com SQL Server
+* variáveis de ambiente
+* Docker
+* tratamento de erros
+* organização e boas práticas de backend
+
+➡️ [Ver projeto](https://github.com/joap3reira36/Backend-API)
+
+---
+
+### 🗄️ SQL Server DBA Lab
+
+Laboratório e base de conhecimento voltados para **Administração de Banco de Dados SQL Server**.
+
+O repositório reúne estudos, testes práticos e scripts relacionados a:
+
+* Backup e Restore
+* Performance e Tuning
+* Troubleshooting
+* Segurança e Auditoria
+* Monitoramento
+* Log Shipping
+* Database Mirroring
+* Always On
+* Replicação Transacional
+* Administração de instâncias SQL Server
+
+➡️ [Ver projeto](https://github.com/joap3reira36/dba-notes)
+
+---
+
+## 💼 O que eu desenvolvo
+
+Tenho interesse em projetos freelance envolvendo:
+
+* 🐍 Desenvolvimento backend com Python
+* 🔌 Criação e manutenção de APIs REST
+* 🗄️ Integração com SQL Server e MySQL
+* 📊 Consultas e scripts SQL
+* ⚙️ Automação de tarefas e processos
+* 🐳 Dockerização de aplicações
+* 🔧 Manutenção e administração de bancos SQL Server
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquitetura de APIs
+* Segurança em aplicações backend
+* SQL Server avançado
+* Performance e otimização de consultas
+* Docker
+* Boas práticas de desenvolvimento Python
+* Automação de processos
+
+---
+
+## 📫 Contato
+
+Estou aberto a **projetos freelance**.
+
+* GitHub: [@joap3reira36](https://github.com/joap3reira36)
+* Email: joaopereira36@outlook.com.br
+
