@@ -20,7 +20,7 @@ Atualmente estou aprimorando meus projetos para aplicar boas práticas de desenv
 ### Banco de Dados
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 
 ### Infraestrutura & Ferramentas
 
